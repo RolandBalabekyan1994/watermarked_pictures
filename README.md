@@ -1,6 +1,6 @@
 # watermarked_pictures
 # Add a Copyright or Watermark to Photos Using Python
-#I use a handy Python library called Pillow. Install it by using the following command in your terminal:
+# I use a handy Python library called Pillow. Install it by using the following command in your terminal:
 $ pip install pillow
 
 
